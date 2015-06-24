@@ -1,0 +1,15 @@
+body {
+	display: block;
+	width: 40%;
+	text-align: justify;
+	margin: 20rem auto;
+	line-height: 5rem;
+	background-color: lightgray;
+	font-size: 1.5rem;
+}
+
+span {
+	color: green;
+	font-weight: bold;
+	font-size: 3rem;
+}
